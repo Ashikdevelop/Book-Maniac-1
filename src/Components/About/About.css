@@ -1,0 +1,50 @@
+.about-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 100%;
+    background-color: #2F4858;
+}
+.about-head{
+    display: flex;
+    color: white;
+    text-decoration: #2F4858;
+    transition: all ease 1s;
+    font-size: 45px;
+}
+
+.about-head:hover{
+    text-shadow: 3px 3px #039590;
+    }
+    
+    .about-two{
+        font-size: 35px;
+        color: black;
+        position: absolute;
+        top: 30%;
+        left: 15%;
+    }
+
+    .about-des{
+        position: absolute;
+        top: 40%;
+        left: 15%;
+        right: 15%;
+        max-height: 500px;
+    }
+
+    .contact{
+        font-size: 35px;
+        color: black;
+        position: absolute;
+        top: 65%;
+        left: 15%;
+    }
+
+    .form-section{
+        background-color: #5F788A;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
